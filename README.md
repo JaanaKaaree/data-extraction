@@ -8,7 +8,7 @@
 
 ### Facebook
 
-#### Stepss 
+#### Steps 
 
 1. Generate the bearer token
 ```
